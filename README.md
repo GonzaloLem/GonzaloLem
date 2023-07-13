@@ -1,5 +1,8 @@
 <h1 align="center">Hola 👋, soy Gonzalo Lemiña</h1>
-<h3 align="center">Soy un Desarrollador especializado en el Backend</h3>
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+backend" alt="Typing SVG" />
+</p>
+
 
 <h3 align="left">Contactame en</h3>
 <p align="left">
