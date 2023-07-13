@@ -7,7 +7,7 @@
 <p align="center">
   <h4 align="left">Contactame en</h4>
   <a href="https://www.linkedin.com/in/gonzalo-lemi%C3%B1a-bb3068234/" target="_blank" >
-    <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgonzalo-lemi%25C3%25B1a-bb3068234%2F?style=for-the-badge&label=Linkedlist&labelColor=1155ba&color=236ad3">
+   <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgonzalo-lemi%25C3%25B1abb3068234%2F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1155ba&color=236ad3">
   </a>
   <span>
 <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.google.com%2Fintl%2Fes-419%2Fgmail%2Fabout%2F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF0000&color=FF5555">
