@@ -1,4 +1,4 @@
-### Hola 👋, Me llamo Gonzalo Lemiña
+### Hola 👋, Soy Gonzalo Lemiña
 
 <!--
 **GonzaloLem/GonzaloLem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
