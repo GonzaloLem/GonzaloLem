@@ -13,7 +13,7 @@
   </span>
   <span>
     <a href="https://mail.google.com/mail/?view=cm&to=gonzalonl308@gmail.com">
-<img alt="Static Badge" src="https://img.shields.io/badge/-gonzalonl308-FF0000?style=for-the-badge&logo=gmail&logoColor=white&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3DGTvVlcSBnNfMkzXXvvLdWRMbVwdWbGsQGGZVGCJRCMWCZsNHzZlJRfqRsQdFxSbQVgFvrXcHmTMhT">
+<img alt="Static Badge" src="https://img.shields.io/badge/-gonzalonl308-FF0000?style=for-the-badge&logo=gmail&logoColor=white&link=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fview%3Dcm%26to%3Dgonzalonl308%40gmail.com">
     </a>
   </span>
 
