@@ -9,7 +9,8 @@
   <a href="https://www.linkedin.com/in/gonzalo-lemi%C3%B1a-bb3068234/" target="_blank" >
     <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgonzalo-lemi%25C3%25B1a-bb3068234%2F?style=for-the-badge&label=Linkedlist&labelColor=1155ba&color=236ad3">
   </a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.google.com%2Fintl%2Fes-419%2Fgmail%2Fabout%2F?style=for-the-badge&label=GMAIL&labelColor=FF0000&color=FF5555&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Fpli%3D1%23inbox%3Fcompose%3DGTvVlcSHxTdSxTsDDPslJljfzdswdsJNJBmVfkCVThrPBHBXWjnmJtWkPmtsWprPmgKVvRLrFhGkC">
+  <span>
+  <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.google.com%2Fintl%2Fes-419%2Fgmail%2Fabout%2F?style=for-the-badge&label=GMAIL&labelColor=FF0000&color=FF5555&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Fpli%3D1%23inbox%3Fcompose%3DGTvVlcSHxTdSxTsDDPslJljfzdswdsJNJBmVfkCVThrPBHBXWjnmJtWkPmtsWprPmgKVvRLrFhGkC"></span>
 
 </p>
 
