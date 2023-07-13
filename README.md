@@ -5,7 +5,6 @@
 </p>
 
 <div align="center">
-  <h4 align="center">Contactame en</h4>
   <span>
     <a href="https://www.linkedin.com/in/gonzalo-lemi%C3%B1a-bb3068234/">
     <img alt="Static Badge" src="https://img.shields.io/badge/-gonzalo%20lemi%C3%B1a-1155ba?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgonzalo-lemi%25C3%25B1a-bb3068234%2F">
