@@ -4,6 +4,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&width=340&lines=Desarrollador+backend" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+  Soy un desarrollador que constantemente me encuentro aprendiendo nuevas tecnologías, herramientas y habilidades para llevar a cabo mejores proyectos y poder seguir creciendo como desarrollador.
+
 <div align="center">
   <span>
     <a href="https://www.linkedin.com/in/gonzalo-lemi%C3%B1a-bb3068234/">
