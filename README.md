@@ -1,13 +1,16 @@
 
 <h1 align="center">Hola 👋, soy Gonzalo Lemiña</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&width=400&lines=Desarrollador+backend" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&width=340&lines=Desarrollador+backend" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Contactame en</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gonzalo-lemi%C3%B1a-bb3068234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gonzalo-lemi%c3%b1a-bb3068234/" height="30" width="40" /></a>
+<p align="center">
+  <h4 align="left">Contactame en</h4>
+  <a href="https://www.linkedin.com/in/gonzalo-lemi%C3%B1a-bb3068234/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgonzalo-lemi%25C3%25B1a-bb3068234%2F?style=for-the-badge&label=Linkedlist&labelColor=1155ba&color=236ad3">
+  </a>
 </p>
+
 
 <h3 align="left">Lenguajes</h3>
 <p align="left"> 
