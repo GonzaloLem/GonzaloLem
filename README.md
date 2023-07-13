@@ -4,15 +4,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&width=340&lines=Desarrollador+backend" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-  <h4 align="left">Contactame en</h4>
+<div align="center">
+  <h4 align="center">Contactame en</h4>
    <img alt="Static Badge" src="https://img.shields.io/badge/-gonzalo%20lemi%C3%B1a-1155ba?style=for-the-badge&logo=gmail&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgonzalo-lemi%25C3%25B1a-bb3068234%2F">
   <span>
     <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJqXPSFVtmVmSdTRTWcDCMLRmSMmFMlBLTFgFwQbvXzJHlMVXKHCqNsrLlhMKWlSnmbSJNB">
 <img alt="Static Badge" src="https://img.shields.io/badge/-gonzalonl308-FF0000?style=for-the-badge&logo=gmail&logoColor=white&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Fcompose%3DGTvVlcSBnNfMkzXXvvLdWRMbVwdWbGsQGGZVGCJRCMWCZsNHzZlJRfqRsQdFxSbQVgFvrXcHmTMhT">
 
 
-</p>
+</div>
 
 
 <h3 align="left">Lenguajes</h3>
