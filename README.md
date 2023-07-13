@@ -10,8 +10,10 @@
    <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgonzalo-lemi%25C3%25B1abb3068234%2F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1155ba&color=236ad3">
   </a>
   <span>
+    <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJqXPSFVtmVmSdTRTWcDCMLRmSMmFMlBLTFgFwQbvXzJHlMVXKHCqNsrLlhMKWlSnmbSJNB">
 <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.google.com%2Fintl%2Fes-419%2Fgmail%2Fabout%2F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF0000&color=FF5555">
-  </span>
+    </a>
+    </span>
 
 </p>
 
