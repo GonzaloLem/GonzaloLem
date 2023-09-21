@@ -1,7 +1,8 @@
 
 <h1 align="center">Hola 👋, soy Gonzalo Lemiña</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=50&width=340&lines=Desarrollador+backend" alt="Typing SVG" /></a>
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=20&width=340&lines=Desarrollador+Full+Stack" alt="Typing SVG" /></a>-->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=2000&width=435&lines=Desarrollador+Full+Stack" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
