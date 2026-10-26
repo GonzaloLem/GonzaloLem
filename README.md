@@ -1,71 +1,74 @@
+<h1 align="center">¡Hola! 👋 Soy Gonzalo Lemiña</h1>
 
-<h1 align="center">Hola 👋, soy Gonzalo Lemiña</h1>
-<p align="center">
-<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=20&width=340&lines=Desarrollador+Full+Stack" alt="Typing SVG" /></a>-->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=2000&width=435&lines=Desarrollador+Full+Stack" alt="Typing SVG" /></a>
-</p>
+<h3 align="center">Desarrollador Full Stack | Java & Spring Boot | C# & .NET | Angular</h3>
 
 <p align="center">
-  Soy un desarrollador que constantemente me encuentro aprendiendo nuevas tecnologías, herramientas y habilidades para llevar a cabo mejores proyectos y poder seguir creciendo como desarrollador.
-
-<div align="center">
-  <span>
-    <a href="https://www.linkedin.com/in/gonzalo-lemi%C3%B1a-bb3068234/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-gonzalo%20lemi%C3%B1a-1155ba?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgonzalo-lemi%25C3%25B1a-bb3068234%2F">
-    </a>
-  </span>
-  <span>
-    <a href="https://mail.google.com/mail/?view=cm&to=gonzalonl308@gmail.com">
-<img alt="Static Badge" src="https://img.shields.io/badge/-gonzalonl308-FF0000?style=for-the-badge&logo=gmail&logoColor=white&link=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fview%3Dcm%26to%3Dgonzalonl308%40gmail.com">
-    </a>
-  </span>
-
-</div>
-
-
-<h3 align="left">Lenguajes</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-</p>
-<h3 align="left">Herramientas</h3>
-<p align="left">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-</p>
-<h3 align="left">Base de datos</h3>
-<p align="left"> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=1200&center=true&vCenter=true&width=650&lines=Desarrollo+de+aplicaciones+Full+Stack;APIs+REST+e+integraci%C3%B3n+de+sistemas;Aprendizaje+y+mejora+continua" alt="Presentación animada" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gonzalo-lemi%C3%B1a-bb3068234/"><img src="https://img.shields.io/badge/LinkedIn-Gonzalo%20Lemi%C3%B1a-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gonzalonl308@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo" /></a>
+</p>
+
+👨‍💻 Sobre mí
+Soy desarrollador Full Stack con experiencia profesional en Java, Spring Boot, C#, .NET, Angular y TypeScript. Trabajo en el desarrollo y mantenimiento de aplicaciones empresariales, creación de APIs REST, integración entre sistemas y bases de datos relacionales.
+
+Me interesa participar en todo el ciclo de desarrollo: desde el análisis y la implementación de funcionalidades hasta los despliegues, la evolución de los sistemas y el soporte en producción. Busco seguir creciendo y profundizando mis conocimientos en arquitectura y buenas prácticas de software.
+🛠️ Stack tecnológico
+Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot / Spring Security" width="45" height="45" title="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".NET / ASP.NET Core" width="45" height="45" title=".NET" />
+</p>
+
+Java: Spring Boot, Spring Security, JPA/Hibernate
+C#/.NET: ASP.NET Core, Entity Framework, LINQ, JWT
+Integraciones: APIs REST, Protocol Buffers (Protobuf)
+Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="45" height="45" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" title="CSS3" />
+</p>
+
+Angular: Standalone Components, Signals, TypeScript
+Bases de datos
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="45" height="45" title="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45" title="Oracle" />
+</p>
+
+También: bases de datos NoSQL
+Herramientas y prácticas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="45" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" width="45" height="45" title="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" title="Linux" />
+</p>
+
+Diseño y metodologías: Clean Architecture, SOLID, patrones de diseño y Scrum.
+💼 Experiencia
+Desarrollador de Software / Full Stack — Omprella Software & Tecnología
+Diciembre 2024 – Actualidad
+- Desarrollo de soluciones de gestión de estacionamientos y abonados con Java, Spring Boot, C#/.NET, Angular y TypeScript.
+- Implementación de módulos para ingreso y egreso de vehículos, emisión de tickets, tarifas, abonados y modalidades de cobranza.
+- Integración de servicios mediante APIs REST y Protobuf.
+- Trabajo con bases de datos relacionales, despliegues con Docker y soporte de sistemas en producción.
+Desarrollador Full Stack Freelance — MiC Educación
+Enero 2026 – Actualidad
+- Desarrollo y mantenimiento de una plataforma e-learning con Angular y .NET.
+- Implementación de APIs REST e integración con Mercado Pago.
+🎓 Formación
+Tecnicatura Universitaria en Programación — Universidad Tecnológica Nacional (UTN)
+2022 – Actualidad
+
+Inglés: B1 · Lectura de documentación técnica.
+<p align="center">📍 Buenos Aires, Argentina · 💬 Abierto a conectar y compartir conocimientos</p>
